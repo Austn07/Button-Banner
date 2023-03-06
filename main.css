@@ -1,12 +1,23 @@
-	body{background-color: cyan;}
-	h1{color: orange;
+body { 
+	background-color: cyan;
+	}
+	h1 {
+		color: orange;
       animation: mymove2 4s infinite;}
     @keyframes mymove2 {50% {color: lime;}
 	}
-	h2{color: white;}
-	h3{color: cyan;}
-	h4{color: red;}
-	p{color: black;}
+	h2 {
+		color: white;
+		}
+	h3 {
+		color: cyan;
+		}
+	h4 {
+		color: red;
+		}
+	p {
+		color: black;
+		}
 
 .btn {
   -webkit-border-radius: 10;
